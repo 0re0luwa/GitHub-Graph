@@ -1,2 +1,2 @@
 # GitHub-Graph2
- A commit gra
+ A commit graph
