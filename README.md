@@ -1,5 +1,5 @@
 # GitHub-Graph2
- A commit graph
+ A Commit graph
  CSCI 3323
  GitHub Assignment
  Oreoluwa Oladele-Ajose
